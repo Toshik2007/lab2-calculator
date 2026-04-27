@@ -1,0 +1,21 @@
+# Compiled files
+*.o
+*.out
+*.exe
+calculator
+
+# Build directories
+build/
+dist/
+
+# IDE files
+.vscode/
+.idea/
+*.user
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
