@@ -2,7 +2,7 @@
 #include "calculator.h"
 
 int main() {
-    std::cout << "=== Simple Calculator ===" << std::endl;
+    std::cout << "=== Calculator v2.0 ===" << std::endl;
 
     double a = 10.0;
     double b = 3.0;
