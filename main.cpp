@@ -11,6 +11,7 @@ int main() {
     std::cout << a << " - " << b << " = " << subtract(a, b) << std::endl;
     std::cout << a << " * " << b << " = " << multiply(a, b) << std::endl;
     std::cout << a << " / " << b << " = " << divide(a, b) << std::endl;
+    std::cout << a << " ^ " << b << " = " << power(a, b) << std::endl;
 
     return 0;
 }

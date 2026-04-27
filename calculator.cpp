@@ -19,3 +19,8 @@ double divide(double a, double b) {
     }
     return a / b;
 }
+
+#include <cmath>
+double power(double base, double exp){
+    return std::pow(base, exp);
+}
